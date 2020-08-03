@@ -110,9 +110,9 @@ lr.predict(df_independent_variable_test)
 
 # In[ ]:
 
-
 ''' 
 This is additional information, 
 DataFrame - is data structure in Python, two-dimensional , tabular format
 '''
 
+'''Aug3'''
